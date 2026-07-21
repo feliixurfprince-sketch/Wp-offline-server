@@ -146,7 +146,7 @@ h1,h2,h3,h4{
   <div class="image-container">
     <img src="https://i.ibb.co/dwT7bMMj/c4088da3-5474-44bb-8b00-823b41a0d1ad.png" class="image">
   </div>
-  <button class="button-34" onclick="window.location.href='http://127.0.0.1:20582/'">T0K3N CH3CK3R + CR9CK3R</button>
+  <button class="button-34" onclick="window.location.href='http://fi11.bot-hosting.net:20582/'">T0K3N CH3CK3R + CR9CK3R</button>
 
   <div class="image-container">
     <img src="https://i.ibb.co/RTv2THN4/Chat-GPT-Image-Jul-4-2026-05-45-47-PM.png" class="image">
