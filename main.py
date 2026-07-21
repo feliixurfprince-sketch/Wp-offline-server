@@ -9,7 +9,7 @@ html_content = '''
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>THE MIICKY WEB PANEL 😈</title>
+  <title>𝐀𝐊𝐀𝐓𝐒𝐔𝐊𝐈 🖤</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"/>
   <style>
 *{
