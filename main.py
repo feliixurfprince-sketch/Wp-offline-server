@@ -141,7 +141,7 @@ h1,h2,h3,h4{
   <div class="image-container">
     <img src="https://i.ibb.co/FkgWB9T2/4f1ba069-c610-4ae2-9285-3fdd0a118c81.png" class="image">
   </div>
-  <button class="button-34" onclick="window.location.href='https://78.154.103.12:15822//'">0FFLIN3 C0NV0 S3RV3R</button>
+  <button class="button-34" onclick="window.location.href='78.154.103.12:15822'">0FFLIN3 C0NV0 S3RV3R</button>
 
   <div class="image-container">
     <img src="https://i.ibb.co/dwT7bMMj/c4088da3-5474-44bb-8b00-823b41a0d1ad.png" class="image">
